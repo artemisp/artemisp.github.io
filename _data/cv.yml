@@ -24,6 +24,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Summer Intern
+      institution: Salesforce Research
+      year: 2023
+      description:
+        - Conducted multimodal AI research under the supervision of Dr. Juan Carlos Niebles.
     - title: Co-Founder
       institution: aarogya.life
       year: 2020 - 2021
@@ -83,12 +88,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - AWS Research Funding for Fair and Trustworthy AI
+    - year: 2022
+      items: 
+        - Alexa Taskbot Competition Finalist   
     - year: 2020
       items: 
         - Penn President’s Engagement Prize
     - year: 2019
       items: 
-        - Faculty Appreciation Award
+        - Penn Engineering Exceptional Service Award
 
 - title: Leadership and Activities
   type: nested_list
