@@ -4,4 +4,5 @@ github_users:
 github_repos:
   - artemisp/paralleLM
   - artemisp/balance-my-slurm
-  - artemis/semantic-norms
+  - artemisp/semantic-norms
+  - artemisp/LAVIS-XInstructBLIP
