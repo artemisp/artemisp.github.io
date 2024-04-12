@@ -90,6 +90,9 @@
   contents:
     - year: 2023
       items: 
+        - CTL Graduate Fellowship for Teaching Excellence
+    - year: 2023
+      items: 
         - AWS Research Funding for Fair and Trustworthy AI
     - year: 2022
       items: 
@@ -100,16 +103,3 @@
     - year: 2019
       items: 
         - Penn Engineering Exceptional Service Award
-
-- title: Leadership and Activities
-  type: nested_list
-  contents:
-    - title: CLunch Organizer
-      items: 
-        - Organized the Computational Linguistics Lunch (CLunch) series at the University of Pennsylvania (Jan - April, 2023)
-    - title: Alexa Taskbot Challenge
-      items: 
-        - Lead UPenn Team, which was one of the 5 finalists (Aug, 2021-May, 2022)
-    - title: Mind, Intelligence, Research, and Analysis (MIRA) Group
-      items:
-        - Graduate philosophy research and training group participant (May,
