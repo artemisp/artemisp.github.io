@@ -36,4 +36,4 @@ My interest lies in the study of knowledge and its acquisition, encoding, and co
 
 In addition to my academic pursuits, I have a strong passion for education. As a Teaching Assistant at the University of Pennsylvania, and through my community teaching experiences, I have acquired a teaching style that prioritizes creating a comfortable and inclusive environment for learning. I strive to challenge students with the beautiful and mentally stimulating concepts of mathematics, logic, and computer science, while also breaking down any mental barriers that may have been created from past negative experiences.
 
-<b>I firmly believe that computer science is a field for everyone, regardless of their background, and it is especially crucial in this day and age</b>. 
+<b>I am convinced that computer science is a field accessible to all, no matter their background, identity, or prior experience. In our technology-driven society, enabling people from various walks of life to contribute to and shape the future of computer science is not just advantageous but vital for creating strong and inclusive technological solutions.</b>
