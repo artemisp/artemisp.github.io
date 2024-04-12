@@ -28,7 +28,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a second year PhD student at the University of Pennsylvania working in the intersection of Natural Language Processing and Computer Vision under the supervision of Professor Chris Callison-Burch and Professor Mark Yatskar. 
+I am a third year PhD student at the University of Pennsylvania working in the intersection of Natural Language Processing and Computer Vision under the supervision of Professor Chris Callison-Burch and Professor Mark Yatskar. 
 
 My interest lies in the study of knowledge and its acquisition, encoding, and communication. I recognize that knowledge encompasses more than just language - especially for procedural information - and therefore my research explores the importance of multimodality in knowledge encoding and transmission. I examine the impact of sensory inputs and mental experiences on our understanding of the world. My higher-arching goal is to gain a deeper understanding of the relationship between knowledge, perception, and communication and how they can be utilized for a comprehensive view of the world. 
 
