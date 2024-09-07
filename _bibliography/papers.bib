@@ -1,12 +1,11 @@
 ---
 ---
 
-
-@article{yang2021visual,
-  bibtex_show={true},
-  title={Visual goal-step inference using wikiHow},
+@inproceedings{yang2021visual,
+  title={Visual Goal-Step Inference using wikiHow},
   author={Yang, Yue and Panagopoulou, Artemis and Lyu, Qing and Zhang, Li and Yatskar, Mark and Callison-Burch, Chris},
-  journal={arXiv preprint arXiv:2104.05845},
+  booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  pages={2167--2179},
   year={2021}
 }
 
@@ -33,34 +32,95 @@
   title={QuakerBot: A Household Dialog System Powered by Large Language Models},
   year={2022},
   author={Panagopoulou, Artemis and Cugini, Manni Arora Li Zhang Dimitri and You, Weiqiu and Zhou, Yue Yang Liyang and Hou, Yuxuan Wang Zhaoyi and Hwang, Alyssa and Martin, Lara and Callison-Burch, Sherry Shi Chris and Yatskar, Mark},
+  journal={Alexa Prize TaskBot Challenge Proceedings}
 }
 
-@article{yang2022visualizing,
-  bibtex_show={true},
-  title={Visualizing the Obvious: A Concreteness-based Ensemble Model for Noun Property Prediction},
-  author={Yang, Yue and Panagopoulou, Artemis and Apidianaki, Marianna and Yatskar, Mark and Callison-Burch, Chris},
-  journal={arXiv preprint arXiv:2210.12905},
-  year={2022}
+@inproceedings{yang-etal-2022-visualizing,
+    title = "Visualizing the Obvious: A Concreteness-based Ensemble Model for Noun Property Prediction",
+    author = "Yang, Yue  and
+      Panagopoulou, Artemis  and
+      Apidianaki, Marianna  and
+      Yatskar, Mark  and
+      Callison-Burch, Chris",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.45",
+    doi = "10.18653/v1/2022.findings-emnlp.45",
+    pages = "638--655",
+    abstract = "Neural language models encode rich knowledge about entities and their relationships which can be extracted from their representations using probing. Common properties of nouns (e.g., red strawberries, small ant) are, however, more challenging to extract compared to other types of knowledge because they are rarely explicitly stated in texts.We hypothesize this to mainly be the case for perceptual properties which are obvious to the participants in the communication. We propose to extract these properties from images and use them in an ensemble model, in order to complement the information that is extracted from language models. We consider perceptual properties to be more concrete than abstract properties (e.g., interesting, flawless). We propose to use the adjectives{'} concreteness score as a lever to calibrate the contribution of each source (text vs. images). We evaluate our ensemble model in a ranking task where the actual properties of a noun need to be ranked higher than other non-relevant properties. Our results show that the proposed combination of text and images greatly improves noun property prediction compared to powerful text-based language models.",
 }
 
-@article{yang2022language,
-  bibtex_show={true},
-  title={Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification},
-  author={Yang, Yue and Panagopoulou, Artemis and Zhou, Shenghao and Jin, Daniel and Callison-Burch, Chris and Yatskar, Mark},
-  journal={arXiv preprint arXiv:2211.11158},
-  year={2022}
+@InProceedings{Yang_2023_CVPR,
+    author    = {Yang, Yue and Panagopoulou, Artemis and Zhou, Shenghao and Jin, Daniel and Callison-Burch, Chris and Yatskar, Mark},
+    title     = {Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {19187-19197}
 }
 
-@article{chakrabarty2023spy,
-  title={I spy a metaphor: Large language models and diffusion models co-create visual metaphors},
-  author={Chakrabarty, Tuhin and Saakyan, Arkadiy and Winn, Olivia and Panagopoulou, Artemis and Yang, Yue and Apidianaki, Marianna and Muresan, Smaranda},
-  journal={arXiv preprint arXiv:2305.14724},
-  year={2023}
+@inproceedings{chakrabarty-etal-2023-spy,
+    title = "{I} Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors",
+    author = "Chakrabarty, Tuhin  and
+      Saakyan, Arkadiy  and
+      Winn, Olivia  and
+      Panagopoulou, Artemis  and
+      Yang, Yue  and
+      Apidianaki, Marianna  and
+      Muresan, Smaranda",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.465",
+    doi = "10.18653/v1/2023.findings-acl.465",
+    pages = "7370--7388",
+    abstract = "Visual metaphors are powerful rhetorical devices used to persuade or communicate creative ideas through images. Similar to linguistic metaphors, they convey meaning implicitly through symbolism and juxtaposition of the symbols. We propose a new task of generating visual metaphors from linguistic metaphors. This is a challenging task for diffusion-based text-to-image models, such as DALL$\cdot$E 2, since it requires the ability to model implicit meaning and compositionality. We propose to solve the task through the collaboration between Large Language Models (LLMs) and Diffusion Models: Instruct GPT-3 (davinci-002) with Chain-of-Thought prompting generates text that represents a visual elaboration of the linguistic metaphor containing the implicit meaning and relevant objects, which is then used as input to the diffusion-based text-to-image models. Using a human-AI collaboration framework, where humans interact both with the LLM and the top-performing diffusion model, we create a high-quality dataset containing 6,476 visual metaphors for 1,540 linguistic metaphors and their associated visual elaborations. Evaluation by professional illustrators shows the promise of LLM-Diffusion Model collaboration for this task.To evaluate the utility of our Human-AI collaboration framework and the quality of our dataset, we perform both an intrinsic human-based evaluation and an extrinsic evaluation using visual entailment as a downstream task.",
+}
+
+@inproceedings{xue2024ulip,
+  title={Ulip-2: Towards scalable multimodal pre-training for 3d understanding},
+  author={Xue, Le and Yu, Ning and Zhang, Shu and Panagopoulou, Artemis and Li, Junnan and Mart{\'\i}n-Mart{\'\i}n, Roberto and Wu, Jiajun and Xiong, Caiming and Xu, Ran and Niebles, Juan Carlos and others},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={27091--27101},
+  year={2024}
+}
+
+
+@inproceedings{panagopoulou-etal-2024-evaluating,
+    title = "Evaluating Vision-Language Models on Bistable Images",
+    author = "Panagopoulou, Artemis  and
+      Melkin, Coby  and
+      Callison-Burch, Chris",
+    editor = "Kuribayashi, Tatsuki  and
+      Rambelli, Giulia  and
+      Takmaz, Ece  and
+      Wicke, Philipp  and
+      Oseki, Yohei",
+    booktitle = "Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.cmcl-1.2",
+    pages = "8--29",
+    abstract = "Bistable images, also known as ambiguous or reversible images, present visual stimuli that can be seen in two distinct interpretations, though not simultaneously, by the observer. In this study, we conduct the most extensive examination of vision-language models using bistable images to date. We manually gathered a dataset of 29 bistable images, along with their associated labels, and subjected them to 121 different manipulations in brightness, resolution, tint, and rotation. We evaluated twelve different models in both classification and generative tasks across six model architectures. Our findings reveal that, with the exception of models from the Idefics family and LLaVA1.5-13b, there is a pronounced preference for one interpretation over another among the models, and minimal variance under image manipulations, with few exceptions on image rotations. Additionally, we compared the models{'} preferences with humans, noting that the models do not exhibit the same continuity biases as humans and often diverge from human initial interpretations. We also investigated the influence of variations in prompts and the use of synonymous labels, discovering that these factors significantly affect model interpretations more than image manipulations showing a higher influence of the language priors on bistable image interpretations compared to image-text training data. All code and data is open sourced.",
 }
 
 @article{panagopoulou2023x,
-  title={X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning},
+  title={X-instructblip: A framework for aligning x-modal instruction-aware representations to llms and emergent cross-modal reasoning},
   author={Panagopoulou, Artemis and Xue, Le and Yu, Ning and Li, Junnan and Li, Dongxu and Joty, Shafiq and Xu, Ran and Savarese, Silvio and Xiong, Caiming and Niebles, Juan Carlos},
-  journal={arXiv preprint arXiv:2311.18799},
-  year={2023}
+  booktitle={European Conference on Computer Vision},
+  year={2024},
+  organization={Springer}
 }

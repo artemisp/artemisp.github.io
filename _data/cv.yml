@@ -26,7 +26,7 @@
   contents:
     - title: Research Summer Intern
       institution: Salesforce Research
-      year: 2023
+      year: 2023-2024
       description:
         - Conducted multimodal AI research under the supervision of Dr. Juan Carlos Niebles.
     - title: Co-Founder
@@ -56,34 +56,27 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: Instructor
+    - title: Instructor, Introduction to Computer Science
       institution: Prison Teaching Initiative, Princeton University, Southwoods Prison
-      course: Introduction to Computer Science
       year: F22
-    - title: Instructor
+    - title: Instructor, Introduction to Python (Coding Club)
       institution: Kohelet-Yeshiva
-      course: Introduction to Python (Coding Club)
       year: F21 - Sp22
-    - title: Teaching Assistant
+    - title: Teaching Assistant, CIS530 - Natural Language Processing
       institution: University of Pennsylvania, Computer and Information Science
-      course: CIS530 - Natural Language Processing
-      year: F22
-    - title: Teaching Assistant
+      year: F22, F24
+    - title: Teaching Assistant, CIS 700 - Interactive Fiction and Text Generation
       institution: University of Pennsylvania, Computer and Information Science
-      course: CIS 700 - Interactive Fiction and Text Generation
       year: Sp22
-    - title: Teaching Assistant
+    - title: Teaching Assistant, CIS 521 - Introduction to Artificial Intelligence
       institution: University of Pennsylvania, Computer and Information Science
-      course: CIS 521 - Introduction to Artificial Intelligence
       year: F021
-    - title: Teaching Assistant
+    - title: Teaching Assistant, MCIT 592 - Mathematical Foundations of Computer Science
       institution: University of Pennsylvania, Computer and Information Science
-      course: MCIT 592 - Mathematical Foundations of Computer Science
       year: Sum18-Sp19
-    - title: Teaching Assistant
+    - title: Teaching Assistant, CIS 262 - Automata, Computability, and Complexity
       institution: University of Pennsylvania, Computer and Information Science
-      course: CIS 262 - Automata, Computability, and Complexity
-      year: Sp018
+      year: Sp18
 
 - title: Honors and Awards
   type: time_table
