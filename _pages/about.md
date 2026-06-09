@@ -30,7 +30,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a PhD student at the University of Pennsylvania working in the intersection of Natural Language Processing and Computer Vision under the supervision of Professor Chris Callison-Burch and Professor Mark Yatskar. Currently I also work as a student researcher at Google (Augmented Reality). Previously I was a research intern at Salesforce AI. 
+I am a PhD student at the University of Pennsylvania working in the intersection of Natural Language Processing and Computer Vision under the supervision of Professor Chris Callison-Burch and Professor Mark Yatskar.
+
+
+In the past I have worked as a student researcher at Google (Augmented Reality) and a research intern at Salesforce AI. 
 
 My research focuses on advancing multimodal AI by integrating diverse modalities such as images, audio, video, text, and 3D. I address challenges in multimodal integration, benchmark development, and enhancing interpretability to build trustworthy models. My mission is to craft models that can see, listen, and comprehend with the nuance of perceptual coherence—models that are as robust as they are insightful, and as interpretable as they are performant, bringing us closer to a future where machines are not just tools, but reliable, insightful collaborators.
 
