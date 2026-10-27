@@ -12,12 +12,14 @@ nav_order: 3
 
    - Course: Introduction to Computer Science
    - Semesters: Fall 2022
+   - On Campus Employment Program UPenn
 
 
 - Optional Course for Elementary School Students, **Kohelet-Yeshiva**, 2021
 
    - Course: (Coding Club) Introduction to Python
    - Semesters: Fall 2021, Spring 2022
+   - On Campus Employment Program UPenn
 
 ## Teaching Assistant
 
