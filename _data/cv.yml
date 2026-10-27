@@ -68,10 +68,10 @@
   type: time_table
   contents:
     - title: Instructor, Introduction to Computer Science
-      institution: Prison Teaching Initiative, Princeton University, Southwoods Prison
+      institution: Prison Teaching Initiative, Princeton University, Southwoods Prison, University of Pennsylvania Collaboration.
       year: F22
     - title: Instructor, Introduction to Python (Coding Club)
-      institution: Kohelet-Yeshiva
+      institution: Kohelet-Yeshiva, University of Pennsylvania Collaboration.
       year: F21 - Sp22
     - title: Teaching Assistant, CIS530 - Natural Language Processing
       institution: University of Pennsylvania, Computer and Information Science
