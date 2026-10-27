@@ -3,8 +3,9 @@
   contents:
     - title: Ph.D in Computer and Information Science
       institution: University of Pennsylvania
-      year: 2021-present
+      year: 2021-2026
       description:
+        - Thesis Title "Synthesizing Missing Data for Multimodal Models"
         - Research Interests in Natural Language Processing, Computer Vision
         - Advised by Mark Yatskar, Chris Callison-Burch
     - title: MSE in Computer and Information Science
@@ -17,19 +18,29 @@
       institution: University of Pennsylvania
       year: 2015-2020
       description:
-        - BA (Honors) in Cognitive Science, BA (Honorss) in Philosophy, BAS in Computer and Cognitive Science
+        - BA (Honors) in Cognitive Science, BA (Honors) in Philosophy, BAS in Computer and Cognitive Science
         - Minor in Mathematics
         - Dean’s List (Aug, 2017 - May, 2020)
 
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Research Scientist
+      institution: Salesforce
+      year: Present
+      description:
+        - Drive foundational multimodal research and translate it into practical AI applications.
+    - title: Student Researcher
+      institution: Google
+      year: 2025
+      description:
+        - Worked on spatial reasoning models.
     - title: Research Summer Intern
       institution: Salesforce Research
       year: 2023-2024
       description:
         - Conducted multimodal AI research under the supervision of Dr. Juan Carlos Niebles.
-    - title: Co-Founder
+    - title: Co-Founder and Software Engineer
       institution: aarogya.life
       year: 2020 - 2021
       description:
