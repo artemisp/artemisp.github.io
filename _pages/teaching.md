@@ -1,19 +1,12 @@
 ---
-layout: page
+layout: academic
+title: Teaching
 permalink: /teaching/
-title: teaching
-description: Teaching experiences at Penn and beyond!
-nav: true
-nav_order: 3
+description: "Teaching and outreach at the University of Pennsylvania and beyond."
 ---
+<header class="page-header"><h1>Teaching & outreach</h1></header>
+<div class="prose" markdown="1">
 ## Instructor
-
-- **Prison Teaching Initiative** at Princeton University, Southwoods Prison, 2022
-
-   - Course: Introduction to Computer Science
-   - Semesters: Fall 2022
-   - On Campus Employment Program UPenn
-
 
 - Optional Course for Elementary School Students, **Kohelet-Yeshiva**, 2021
 
@@ -26,7 +19,7 @@ nav_order: 3
 - Graduate course, **University of Pennsylvania**, Computer and Information Science, 2022
 
    - Course: (CIS530) Natural Language Processing
-   - Semesters: Fall 2022
+   - Semesters: Fall 2022, Fall 2024
 
 - Graduate course, **University of Pennsylvania**, Computer and Information Science, 2022
 
@@ -51,3 +44,4 @@ nav_order: 3
    - Course: (CIS 262) Automata, Computability, and Complexity
    - Instructor: Dr. Nima Roohi
    - Semesters: Spring 2018
+</div>

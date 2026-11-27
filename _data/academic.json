@@ -1,0 +1,121 @@
+{
+  "projects": [
+    {
+      "id": "maptrace",
+      "name": "MapTrace",
+      "question": "Teaching models to read maps",
+      "venue": "Preprint · 2025",
+      "image": "maptrace.png",
+      "alt": "MapTrace example: a requested route traced across a synthetic zoo map.",
+      "summary": "Multimodal models can recognize a map yet struggle to follow a route. MapTrace generates synthetic maps and route annotations to train this spatial skill.",
+      "detail": "Public release: two million annotated map–path examples.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2512.19609"
+        },
+        {
+          "label": "Project",
+          "url": "https://artemisp.github.io/maptrace/"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/google-research/MapTrace"
+        },
+        {
+          "label": "Dataset",
+          "url": "https://huggingface.co/datasets/google/MapTrace"
+        },
+        {
+          "label": "Google Research blog",
+          "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+          "label": "StartupHub coverage",
+          "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/ai-finally-learns-to-read-a-map"
+        }
+      ]
+    },
+    {
+      "id": "xinstructblip",
+      "name": "X-InstructBLIP",
+      "question": "Connecting images, audio, video, and 3D to language models",
+      "venue": "ECCV 2024",
+      "image": "xinstructblip.png",
+      "alt": "X-InstructBLIP architecture connecting image, audio, video, and 3D encoders to a frozen language model.",
+      "summary": "A framework for connecting image, audio, video, and 3D inputs to a frozen language model. Independently trained modality adapters support reasoning across multiple input types.",
+      "detail": "Evaluated across 16 benchmarks; includes generated instruction data and the DisCRn benchmark.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06140.pdf"
+        },
+        {
+          "label": "Code & models",
+          "url": "https://github.com/salesforce/LAVIS/tree/main/projects/xinstructblip"
+        }
+      ],
+      "related": {
+        "id": "contra4",
+        "name": "Contra4",
+        "venue": "EMNLP 2025",
+        "summary": "A benchmark for contrastive reasoning across up to four modalities.",
+        "url": "https://aclanthology.org/2025.emnlp-main.1288/",
+        "project": "https://artemisp.github.io/contra4-web/"
+      }
+    },
+    {
+      "id": "viunit",
+      "name": "ViUniT",
+      "question": "Testing the reasoning behind an answer",
+      "venue": "CVPR 2025",
+      "image": "viunit.png",
+      "alt": "ViUniT example showing how visual unit tests expose a program that produces a correct answer for the wrong reason.",
+      "summary": "Visual programs can produce the right answer with faulty logic. ViUniT generates image–answer test cases to check that logic and uses the results for program selection, repair, and learning.",
+      "detail": "Average accuracy gains of 11.4 percentage points across three datasets in the paper’s visual-programming experiments.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Panagopoulou_ViUniT_Visual_Unit_Tests_for_More_Robust_Visual_Programming_CVPR_2025_paper.html"
+        },
+        {
+          "label": "Project",
+          "url": "https://artemisp.github.io/viunit/"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/SalesforceAIResearch/visual-unit-testing"
+        },
+        {
+          "label": "Coauthored explainer",
+          "url": "https://www.niebles.net/blog/2025/viunit/"
+        },
+        {
+          "label": "MarkTechPost coverage",
+          "url": "https://www.marktechpost.com/2025/03/07/salesforce-ai-proposes-viunit-visual-unit-testing-an-ai-framework-to-improve-the-reliability-of-visual-programs-by-automatically-generating-unit-tests-by-leveraging-llms-and-diffusion-models/"
+        }
+      ]
+    },
+    {
+      "id": "ivg",
+      "name": "Interactive Visual Gym",
+      "question": "Evaluating assistants in interactive worlds",
+      "venue": "Preprint · 2026",
+      "image": "ivg.png",
+      "alt": "Interactive Visual Gym task sequences in simulated cooking, household, and mobile-interface environments.",
+      "summary": "An assistant’s advice changes what a user does next. Interactive Visual Gym simulates users and task environments so models can be evaluated and trained through the consequences of their guidance.",
+      "detail": "Cooking, household tasks, and mobile interfaces; 315 benchmark interaction scenarios.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2611.08286"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/SalesforceAIResearch/Interactive-Visual-Gym"
+        }
+      ],
+      "image_source": "https://arxiv.org/html/2611.08286v2/three_engines_tasks.png"
+    }
+  ]
+}

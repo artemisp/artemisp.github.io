@@ -1,0 +1,263 @@
+[
+  {
+    "title": "Experience",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "Senior Research Scientist",
+        "institution": "Salesforce Inc., Salesforce Research",
+        "year": "Sep 2026–Present",
+        "description": [
+          "Research and develop multimodal models for image, video, and text understanding, collaborating with engineering teams on product integration.",
+          "Develop methods for evaluating visual interaction models in simulated environments."
+        ]
+      },
+      {
+        "title": "Student Researcher",
+        "institution": "Google, Augmented Reality",
+        "year": "May–Nov 2025",
+        "description": [
+          "Developed MapTrace, a synthetic data generation pipeline for spatial reasoning and route tracing, with a public release of two million annotated map-path examples."
+        ]
+      },
+      {
+        "title": "AI Research Intern",
+        "institution": "Salesforce Inc., Salesforce Research",
+        "year": "May 2023–Aug 2024",
+        "description": [
+          "Developed multimodal alignment and reasoning methods including X-InstructBLIP and Contra4, and visual unit testing for reliable reasoning (ViUniT).",
+          "Contributed to ULIP-2 for scalable multimodal pre-training for 3D understanding."
+        ]
+      },
+      {
+        "title": "Doctoral research in multimodal AI",
+        "institution": "University of Pennsylvania",
+        "year": "2021–2026",
+        "description": [
+          "Research on synthesizing missing data for multimodal models. Advisor: Mark Yatskar."
+        ]
+      },
+      {
+        "title": "Co-Founder and Software Engineer",
+        "institution": "aarogya.life",
+        "year": "2020 - 2021",
+        "description": [
+          "Co-founded aarogya.life, an award winning health-tech social enterprise creating a medicine redistribution platform."
+        ]
+      },
+      {
+        "title": "Research Assistant",
+        "institution": "General Robotics, Automation, and Sensing (GRASP) Lab, University of Pennsylvania",
+        "year": "2019-2020",
+        "description": [
+          "Worked on estimating optical flow from event based cameras (supervised and unsupervised) using Spiking Neural Networks.",
+          "Supervised by Prof. Kostas Daniilidis"
+        ]
+      },
+      {
+        "title": "Research Assistant",
+        "institution": "Kod*Lab, University of Pennsylvania",
+        "year": 2019,
+        "description": [
+          "Developed a simulation for physically parameterized soft bellow-shaped robots with multiple degrees of freedom.",
+          "Supervised by Prof. Daniel Koditschek"
+        ]
+      },
+      {
+        "title": "Research Assistant",
+        "institution": "Computer and Information Science, University of Pennsylvania",
+        "year": 2018,
+        "description": [
+          "Implemented Prof. Dana Angluin’s K-reversible inference algorithm and applied it on the synthesis of Turkish morphology.",
+          "Supervised by Prof. Mitch Marcus"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Education",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "Ph.D in Computer and Information Science",
+        "institution": "University of Pennsylvania",
+        "year": "2021-2026",
+        "description": [
+          "Thesis: Synthesizing Missing Data for Multimodal Models",
+          "Advisor: Mark Yatskar",
+          "Multimodal models, synthetic data, and evaluation."
+        ]
+      },
+      {
+        "title": "MSE in Computer and Information Science",
+        "institution": "University of Pennsylvania",
+        "year": "2018-2020",
+        "description": [
+          "Thesis: Metaphor and Entailment: Looking at Metaphors Through the Lens of Textual Entailment",
+          "Advisor: Mitch Marcus"
+        ]
+      },
+      {
+        "title": "Dual Degree in Artificial Intelligence",
+        "institution": "University of Pennsylvania",
+        "year": "2015-2020",
+        "description": [
+          "BA (Honors) in Cognitive Science, BA (Honors) in Philosophy, BAS in Computer and Cognitive Science",
+          "Minor in Mathematics",
+          "Dean’s List (Aug, 2017 - May, 2020)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honors and Awards",
+    "type": "time_table",
+    "contents": [
+      {
+        "year": "2024",
+        "items": [
+          "Best Paper Award, CMCL: Evaluating Vision-Language Models on Bistable Images"
+        ]
+      },
+      {
+        "year": "2023–2024",
+        "items": [
+          "CTL Graduate Fellowship for Teaching Excellence"
+        ]
+      },
+      {
+        "year": 2023,
+        "items": [
+          "AWS Research Funding for Fair and Trustworthy AI"
+        ]
+      },
+      {
+        "year": 2022,
+        "items": [
+          "Alexa Taskbot Competition Finalist"
+        ]
+      },
+      {
+        "year": 2020,
+        "items": [
+          "Penn President’s Engagement Prize"
+        ]
+      },
+      {
+        "year": 2019,
+        "items": [
+          "Penn Engineering Exceptional Service Award"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Selected Invited Talks and Workshops",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "Bridging Language and Vision: A Hands-On Introduction to Vision-Language Models",
+        "institution": "Women in Data Science @ Penn, Philadelphia",
+        "year": "Feb 2025",
+        "description": [
+          "Workshop leader."
+        ]
+      },
+      {
+        "title": "Bridging Vision and Language: Advances and Challenges",
+        "institution": "Princeton University",
+        "year": "Dec 2024"
+      },
+      {
+        "title": "Advancing Multimodal AI: Integrating Modalities, Tackling Complex Challenges, and Enhancing Interpretability",
+        "institution": "University of Pennsylvania",
+        "year": "Sep 2024"
+      }
+    ]
+  },
+  {
+    "title": "Academic Service",
+    "type": "list",
+    "contents": [
+      "Journal reviewer: Transactions on Machine Learning Research (2026).",
+      "Conference reviewer: NeurIPS (2026), COLM (2026), CVPR (2025, 2026), ICLR (2026, 2027), ECCV (2024), ACL (2023), and COLING (2025).",
+      "ACL Rolling Review: February and August 2024; February, May, and October 2025; January and May 2026.",
+      "Student Research Workshop reviewer: ACL (2023, 2024) and NAACL (2025)."
+    ]
+  },
+  {
+    "title": "Patent Applications and Technical Disclosure",
+    "type": "list",
+    "contents": [
+      "<a href=\"https://patents.google.com/patent/US20240370718A1/en\">Systems and methods for multi-modal language models</a>. Co-inventor. Application 18/400,477; publication US20240370718A1 (2024).",
+      "<a href=\"https://patents.google.com/patent/US20250378347A1/en\">Systems and methods for training and evaluating multimodal neural network based language models</a>. Co-inventor. Application 18/973,803; publication US20250378347A1 (2025).",
+      "<a href=\"https://patents.google.com/patent/US20260044436A1/en\">Systems and methods for visual programming</a>. Co-inventor. Application 18/972,463; publication US20260044436A1 (2026).",
+      "<a href=\"https://www.tdcommons.org/dpubs_series/9308/\">Semantic Navigation Using Generative Models and Graphical Maps</a>. Technical Disclosure Commons 9308 (2026). Technical disclosure."
+    ]
+  },
+  {
+    "title": "Teaching",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "Instructor, Introduction to Python (Coding Club)",
+        "institution": "Kohelet-Yeshiva, (University of Pennsylvania Collaboration/On Campus Employment Program).",
+        "year": "F21 - Sp22"
+      },
+      {
+        "title": "Teaching Assistant, CIS 530 — Natural Language Processing",
+        "institution": "University of Pennsylvania, Computer and Information Science",
+        "year": "F22, F24"
+      },
+      {
+        "title": "Teaching Assistant, CIS 700 - Interactive Fiction and Text Generation",
+        "institution": "University of Pennsylvania, Computer and Information Science",
+        "year": "Sp22"
+      },
+      {
+        "title": "Teaching Assistant, CIS 521 - Introduction to Artificial Intelligence",
+        "institution": "University of Pennsylvania, Computer and Information Science",
+        "year": "F21"
+      },
+      {
+        "title": "Teaching Assistant, MCIT 592 - Mathematical Foundations of Computer Science",
+        "institution": "University of Pennsylvania, Computer and Information Science",
+        "year": "Sum18-Sp19"
+      },
+      {
+        "title": "Teaching Assistant, CIS 262 - Automata, Computability, and Complexity",
+        "institution": "University of Pennsylvania, Computer and Information Science",
+        "year": "Sp18"
+      }
+    ]
+  },
+  {
+    "title": "Leadership and Activities",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "Association of Alumnae (AofA)",
+        "institution": "University of Pennsylvania",
+        "year": "May 2023–Aug 2026"
+      },
+      {
+        "title": "Board Member, Advancing Women in Engineering",
+        "institution": "University of Pennsylvania",
+        "year": "Aug 2023–Aug 2025"
+      },
+      {
+        "title": "Team Lead, Alexa Prize TaskBot Challenge",
+        "institution": "QuakerBot, University of Pennsylvania",
+        "year": "Aug 2021–May 2022",
+        "description": [
+          "Finalist."
+        ]
+      },
+      {
+        "title": "Women in Computer Science",
+        "institution": "University of Pennsylvania",
+        "year": "Jan–May 2019"
+      }
+    ]
+  }
+]

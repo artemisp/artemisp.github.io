@@ -1,0 +1,4 @@
+<li>
+  <time datetime="{{ include.item.date | date: '%Y-%m-%d' }}">{{ include.item.date | date: '%b %Y' }}</time>
+  <div class="news-entry"><span class="news-emoji" aria-hidden="true">{{ include.item.emoji | default: '📄' }}</span><div class="news-copy">{{ include.item.content | remove: '📢' | remove: '🎉' | remove: '🤖' | remove: '🏆' | remove: '🌍' | remove: '🙌' | remove: '😄' | remove: '✨' | remove: '🎊' | remove: '🔥' | remove: 'Announcement:' | markdownify }}</div></div>
+</li>

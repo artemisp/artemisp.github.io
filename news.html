@@ -1,7 +1,7 @@
 ---
-layout: page
-title: news
+layout: academic
+title: News
 permalink: /news/
 ---
-
-{% include news.html %}
+<header class="page-header"><h1>News</h1></header>
+<div class="archive-news"><ul class="news-list">{% assign news = site.news | sort: "date" | reverse %}{% for item in news %}{% include news-item.html item=item %}{% endfor %}</ul></div>
